@@ -2,7 +2,6 @@
 
 论文: "Filter Images First, Generate Instructions Later: Pre-Instruction Data Selection for Visual Instruction Tuning" (CVPR 2025)
 
-## 跑起来
 
 ```bash
 pip install -r requirements.txt
